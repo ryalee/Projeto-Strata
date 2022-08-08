@@ -53,7 +53,7 @@ Text
 This is bold and this is strong. This is italic and this is emphasized. This is superscript text and this is subscript text. This is underlined and this is code: for (;;) { ... }. Finally, this is a link.
 
 titulo h1
-titulo h2
+atitulo h2
 titulo h3
 titulo h4
 titulo h5
