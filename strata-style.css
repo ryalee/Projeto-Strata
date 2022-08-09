@@ -249,3 +249,12 @@ li {
     border-radius: 10px;
     overflow: hidden;
 }
+.gallery-img {
+    background: red;
+}
+.gallery-img img{
+    max-width: 100%;
+}
+.gallery-thumb {
+    background: orange;
+}
